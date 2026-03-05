@@ -1,10 +1,10 @@
-# 🍽️ Restova – Restaurant Website
+## 🍽️ Restova – Restaurant Website
 
 Restova is a modern and responsive restaurant website designed to showcase a restaurant’s menu, atmosphere, and services in an elegant and user-friendly way. The website provides visitors with an engaging experience where they can explore dishes, learn about the restaurant, and easily contact or visit the location.
 
 The main goal of Restova is to create a clean and professional digital presence for restaurants while offering a smooth browsing experience across all devices.
 
-# ✨ Features
+## ✨ Features
 
 🍔 Restaurant Menu Section – Display food categories, meals, and prices.
 
@@ -18,7 +18,7 @@ The main goal of Restova is to create a clean and professional digital presence 
 
 🎨 Modern UI Design – Clean layout with smooth user experience.
 
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 This project was built using the following technologies:
 
@@ -30,7 +30,7 @@ Bootstrap 5 – Responsive design and components
 
 Sass (SCSS) – Advanced styling and better CSS organization
 
-# 📂 Project Structure
+## 📂 Project Structure
 restova/
 │
 ├── index.html
@@ -48,7 +48,7 @@ restova/
 │
 └── README.md
 
-# 🚀 How to Use
+## 🚀 How to Use
 
 Download or clone the repository.
 
@@ -58,11 +58,11 @@ Open the project folder.
 
 Run the project by opening index.html in your browser.
 
-# 🎯 Project Purpose
+## 🎯 Project Purpose
 
 The purpose of Restova is to demonstrate how a restaurant can present its brand, menu, and services through a visually appealing and responsive website using modern frontend technologies.
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 Zakaria Rouane
 Full Stack Developer passionate about building modern and user-friendly web applications.
